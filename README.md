@@ -12,6 +12,10 @@ MBP macOS High Sierra 10.13
 
 ## Run
 
+Put your picture under ```mytest/```, naming the file with name of people in your picture
+
 ```
 python3 mytest/facerec_from_webcam_faster.py
 ```
+
+
